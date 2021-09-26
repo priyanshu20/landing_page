@@ -14,20 +14,15 @@ export default function WorkingSection() {
     <section className="pb-20 bg-gray-100 -mt-32">
       <div className="container max-w-7xl mx-auto px-4">
         <div className="flex flex-wrap relative z-50">
-          <StatusCard color="red" icon="stars" title="Trusted by many">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias
-            facilis itaque nesciunt optio quo sunt numquam iste voluptatum,
-            veniam ratione minus officiis quod nulla? Error!
+          <StatusCard color="blue" icon="masks" title="Mask Donation">
+            Help as many people as you can by donating masks and prevent corona to spread. 
           </StatusCard>
-          <StatusCard color="lightBlue" icon="autorenew" title="Zero Downtime">
-            Our servers run 24/7 and will never be a hindrance in saving lives
-            of humans.
+          <StatusCard color="red" icon="water_drop" title="Blood Donation">
+            A blood donation is truly an altruistic gift. An eligible individual can donate one unit of blood that can be separated into four individual components that could help save multiple lives.
           </StatusCard>
-          <StatusCard color="teal" icon="fingerprint" title="Security">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Exercitationem ipsum tempore eius dolorum recusandae sequi aliquid
-            necessitatibus facilis reprehenderit quos, debitis iste repudiandae
-            ab sit nihil unde. Autem, pariatur quae!!
+          <StatusCard color="green" icon="payments" title="Donate">
+           Give donations to cover some of the cost of providing care for patients, to perform medical research and to educate future health care professionals
+           
           </StatusCard>
         </div>
 

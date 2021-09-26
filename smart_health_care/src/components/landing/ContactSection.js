@@ -14,17 +14,14 @@ export default function ContactSection() {
         </Title>
 
         <div className="flex flex-wrap -mt-12 justify-center">
-          <ContactCard icon="payments" color="green" title="Donate">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+          <ContactCard icon="fingerprint" color="teal" title="Security">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </ContactCard>
-          <ContactCard icon="masks" color="blue" title="Mask Donation">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+          <ContactCard icon="stars" color="red" title="Trusted by many">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </ContactCard>
-          <ContactCard icon="water_drop" title="Blood Donation" color="red">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+          <ContactCard icon="autorenew" title="Zero Downtime" color="lightBlue">
+           Our servers run 24/7 and will never be a hindrance in saving lives of humans.
           </ContactCard>
         </div>
 

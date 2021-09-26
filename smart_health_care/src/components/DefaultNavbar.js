@@ -34,7 +34,7 @@ export default function DefaultNavbar() {
           <Nav>
             <div className="flex flex-col z-50 lg:flex-row lg:items-center">
               <NavLink
-                href="https://material-tailwind.com/documentation/quick-start?ref=mtk"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
                 ripple="light"
